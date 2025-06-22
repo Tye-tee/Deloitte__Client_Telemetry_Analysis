@@ -11,7 +11,7 @@ As part of Deloitte's virtual job simulation on Forage, I was tasked with develo
 
 ## Objectives
 - Identify trends in Down Time per Factory using telemetry data
-- Segment key performance indicators by business type
+- Segment Down Time by Device Type for factories around the world
 - Create a clear, interactive Tableau dashboard to present findings
 
 ## Skills Demonstrated
