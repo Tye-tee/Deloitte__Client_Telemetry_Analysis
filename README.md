@@ -2,7 +2,8 @@
 # Deloitte Forage Simulation: Client Insights Dashboard
 
  **Simulation Provider:** Deloitte (via Forage)  
-**Tool Used:** Tableau (public data view link included ) 
+**Tool Used:** Tableau (public data view link included)
+
 **Focus:** Visualizing client data to identify business insights and improve decision-making.
 
 ## Overview
@@ -72,3 +73,6 @@ Formula used: **IF [status] = 'unhealthy' THEN 10 ELSE 0 END**
 
 ## Credential
 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_bXc6ibNMZJQY5tcz2_1750143141652_completion_certificate.pdf
+
+
+
