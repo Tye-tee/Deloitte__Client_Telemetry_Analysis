@@ -2,7 +2,7 @@
 # Deloitte Forage Simulation: Client Insights Dashboard
 
  **Simulation Provider:** Deloitte (via Forage)  
-**Tool Used:** Tableau  
+**Tool Used:** Tableau (public data view link included ) 
 **Focus:** Visualizing client data to identify business insights and improve decision-making.
 
 ## Overview
