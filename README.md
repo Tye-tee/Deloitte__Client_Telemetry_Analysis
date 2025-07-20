@@ -71,8 +71,10 @@ Formula used: **IF [status] = 'unhealthy' THEN 10 ELSE 0 END**
 - Client-focused problem solving
 - Practical exposure to consulting workflows
 
-## Credential
+## Credential & Links
 https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_bXc6ibNMZJQY5tcz2_1750143141652_completion_certificate.pdf
+
+https://public.tableau.com/app/profile/titilayo.kuloyo7922/viz/daikibo-telemetry-data_17530340598540/Dashboard1
 
 
 
